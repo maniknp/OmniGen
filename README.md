@@ -1,4 +1,5 @@
-<h1 align="center">OmniGen: Unified Image Generation</h1>
+<h1 align="center">OmniGen: Unified Image Generation 1</h1> 
+
 
 
 <p align="center">
